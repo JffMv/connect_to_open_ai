@@ -43,3 +43,7 @@ This is an example of the expected output and how the results from the model loo
 ## Author
 
 Yeferson Mesa
+
+## Sources
+
+- [Langchain LLM Chain Tutorial](https://python.langchain.com/docs/tutorials/llm_chain/)
